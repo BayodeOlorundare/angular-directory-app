@@ -6,7 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * HTML5
 * JavaScript
 * CSS
-* Angular5
+* Angular7
+* Express JS
 * CLI
 * Jquery
 * Bootstrap
